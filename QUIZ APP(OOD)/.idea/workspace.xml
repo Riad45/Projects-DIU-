@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1513dd86-c076-478d-81e6-6fb123f40527" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RBI6LlTfiMVrPJGR2J56gqKcmh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/YouTube Project/youtube/quiz app/QuizApp&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/YouTube Project/youtube/quiz app/QuizApp/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="Login" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz.app.Login" />
+      <module name="QuizApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quiz.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz.app.Quiz" />
+      <module name="QuizApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quiz.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rules" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz.app.Rules" />
+      <module name="QuizApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quiz.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Score" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quiz.app.Score" />
+      <module name="QuizApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="quiz.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Score" />
+        <item itemvalue="Application.Rules" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1513dd86-c076-478d-81e6-6fb123f40527" name="Changes" comment="" />
+      <created>1686716871126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686716871126</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/QuizApp_master___Copy$Ruleees.ic" NAME="Ruleees Coverage Results" MODIFIED="1701064650658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QuizApp_master___Copy$Rules.ic" NAME="Rules Coverage Results" MODIFIED="1701086451818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QuizApp_master___Copy$Score.ic" NAME="Score Coverage Results" MODIFIED="1701171079453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QUIZ_APP$Score.ic" NAME="Score Coverage Results" MODIFIED="1701670993318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QuizApp_master___Copy$Registration.ic" NAME="Registration Coverage Results" MODIFIED="1700754857661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QUIZ_APP_OOD_$Score.ic" NAME="Score Coverage Results" MODIFIED="1701333019902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QUIZ_APP_OOD_$Home.ic" NAME="Home Coverage Results" MODIFIED="1701668010892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QuizApp_master___Copy$Login.ic" NAME="Login Coverage Results" MODIFIED="1701087608747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QuizApp_master___Copy$Home.ic" NAME="Home Coverage Results" MODIFIED="1701173738328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QuizApp_master___Copy$quiz_application_Rules.ic" NAME="quiz.application.Rules Coverage Results" MODIFIED="1701170475402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.application.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QUIZ_APP$Login.ic" NAME="Login Coverage Results" MODIFIED="1701670980916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QuizApp_master___Copy$Quiz.ic" NAME="Quiz Coverage Results" MODIFIED="1701092442218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quiz.app.*</FILTER>
+    </SUITE>
+  </component>
+</project>
